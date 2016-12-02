@@ -1,0 +1,15 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "first": "node --harmony_destructuring part-1.js",
+    "second": "node --harmony_destructuring part-2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "~0.22.1"
+  }
+}
